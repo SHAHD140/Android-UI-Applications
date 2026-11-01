@@ -1,0 +1,76 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="#F5EBDD">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="✦  ✧  ✦"
+        android:textSize="30sp"
+        android:textColor="#800020" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="22dp"
+        android:gravity="center"
+        android:text="Happy Birthday!"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#800020" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:text="MARAH"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.12"
+        android:textColor="#800020" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="🎂"
+        android:textSize="85sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:gravity="center"
+        android:text="To my beautiful best friend,"
+        android:textSize="18sp"
+        android:textColor="#654A47" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center"
+        android:text="Wishing you endless happiness and success."
+        android:textSize="17sp"
+        android:textColor="#654A47" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:gravity="center"
+        android:text="I love you so much, my favorite doctor! ❤️"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        android:textColor="#800020" />
+
+</LinearLayout>
