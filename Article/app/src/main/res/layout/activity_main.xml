@@ -1,0 +1,78 @@
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F7F3"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DAILY JOURNAL"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#527C66" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="The Beauty of Nature"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textColor="#29483B" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="A peaceful journey into the natural world"
+            android:textSize="17sp"
+            android:textColor="#84968C" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Nature and Life"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#527C66" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Nature is one of the most beautiful gifts in our world. From green forests to peaceful oceans, every part of nature has something special to offer."
+            android:textSize="18sp"
+            android:textColor="#40564B"
+            android:lineSpacingExtra="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Spending time outdoors helps us feel relaxed and happy. The fresh air, warm sunlight, and beautiful flowers remind us to enjoy the simple moments in life."
+            android:textSize="18sp"
+            android:textColor="#40564B"
+            android:lineSpacingExtra="6dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="We can protect nature by planting trees, saving water, and keeping our environment clean. Small actions can make a big difference for our planet."
+            android:textSize="18sp"
+            android:textColor="#40564B"
+            android:lineSpacingExtra="6dp" />
+
+    </LinearLayout>
+
+</ScrollView>
